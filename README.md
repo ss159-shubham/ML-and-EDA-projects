@@ -5,12 +5,11 @@
   - Trained the model using model.fit(), optimizing for Mean Absolute Error (MAE) to measure prediction accuracy.
 
 
-## Image Classifier
+## [Image Classifier](https://github.com/ss159-shubham/machine-learning-projects/blob/main/cat_and_dog_image_classifier.ipynb)
   - Built a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify images of cats and dogs.
   - Preprocessed images with data augmentation, resizing, and normalization to improve model generalization.
   - Trained the model using binary_crossentropy loss and Adam optimizer, achieving an accuracy of 66% on the test set.
   - Implemented real-time predictions on new images, demonstrating practical deep-learning applications.
-  - [Open in Google Colab](https://colab.research.google.com/drive/1mCHW8p0OrpeEH7nKJfXtEIeC4V616oVQ?usp=sharing)
 
 
 ## SMS Spam Classifier

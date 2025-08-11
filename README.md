@@ -1,9 +1,8 @@
 # machine-learning-projects
-## Linear Regression Health Cost Calculator
+## [Linear Regression Health Cost Calculator](https://github.com/ss159-shubham/machine-learning-projects/blob/main/predict_health_costs_with_regression.ipynb)
   - Built a TensorFlow Sequential model with Dense layers to predict health insurance costs based on demographic and health factors.
   - Preprocessed data by defining inputs, encoding categorical features, and concatenating tensors.
   - Trained the model using model.fit(), optimizing for Mean Absolute Error (MAE) to measure prediction accuracy.
-  - [Open in Google Colab](https://colab.research.google.com/drive/1imk1fjqD4_IEwEqovU-Sn3-dxj3jjdGh?usp=sharinghttps://colab.research.google.com/drive/1imk1fjqD4_IEwEqovU-Sn3-dxj3jjdGh?usp=sharinghttps://colab.research.google.com/drive/1imk1fjqD4_IEwEqovU-Sn3-dxj3jjdGh?usp=sharing)
 
 
 ## Image Classifier

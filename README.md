@@ -12,9 +12,9 @@
   - Implemented real-time predictions on new images, demonstrating practical deep-learning applications.
 
 
-## SMS Spam Classifier
+## [SMS Spam Classifier](https://github.com/ss159-shubham/machine-learning-projects/blob/main/sms_text_classification.ipynb)
   - Developed a TensorFlow NLP model to classify SMS messages as spam or ham using Recurrent Neural Networks (RNN) / LSTMs.
   - Preprocessed text data with tokenization, padding, and embedding layers for efficient input representation.
   - Trained the model using Binary_crossentropy loss and Adam optimizer, achieving an accuracy of 99% on test data.
   - Deployed the model for real-time SMS classification, improving spam detection efficiency.
-  - [Open in Google Colab](https://colab.research.google.com/drive/1VvYGyAlE8Umnq7G5gVUpTj-2-GzhkZG-?usp=sharing)
+  

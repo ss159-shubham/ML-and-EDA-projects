@@ -43,3 +43,15 @@
   - Analyzed sea level rise trends using historical data and linear regression.
   - Created scatter plots and trend lines to visualize past and projected sea level changes.
   - Developed predictive models for future sea levels using two regression approaches.
+
+
+## 📦 Dependencies
+The following Python libraries are used in this repository:
+| Library | Purpose |
+|---------|---------|
+| **numpy** | Numerical computing and array manipulation |
+| **pandas** | Data loading, cleaning, and manipulation |
+| **matplotlib** | Data visualization |
+| **seaborn** | Statistical plotting |
+| **tensorflow** | Deep learning models |
+| **keras** | High-level neural networks API |

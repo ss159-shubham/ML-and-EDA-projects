@@ -53,5 +53,6 @@ The following Python libraries are used in this repository:
 | **pandas** | Data loading, cleaning, and manipulation |
 | **matplotlib** | Data visualization |
 | **seaborn** | Statistical plotting |
+| **scipy** | Scientific computing utilities |
 | **tensorflow** | Deep learning models |
 | **keras** | High-level neural networks API |
